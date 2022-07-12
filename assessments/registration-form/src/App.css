@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #ffffff;
+  align-items: center;
+  justify-content: center;
+  color: #828282;
+  margin-bottom: 50px;
+}
+
+.formGroup {
+  margin-bottom: 10px;
+}
